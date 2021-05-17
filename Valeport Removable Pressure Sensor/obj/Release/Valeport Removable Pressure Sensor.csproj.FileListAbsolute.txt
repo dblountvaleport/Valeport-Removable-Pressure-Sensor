@@ -1,0 +1,39 @@
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Pressure Calibration Software.exe.config
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Pressure Calibration Software.exe
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Pressure Calibration Software.pdb
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\FlexCel.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\NModbus4.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.Chart.Base.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.Chart.Windows.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.Shared.Base.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\TMS.Cloud.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\FlexCel.xml
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\NModbus4.xml
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.Chart.Base.xml
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.Chart.Windows.xml
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.Shared.Base.xml
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\es\FlexCel.resources.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\obj\Release\Pressure_Calibration_Software.Form1.resources
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\obj\Release\Pressure_Calibration_Software.Properties.Resources.resources
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\obj\Release\Valeport Removable Pressure Sensor.csproj.GenerateResource.cache
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\obj\Release\Valeport Removable Pressure Sensor.csproj.CoreCompileInputs.cache
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\obj\Release\Valeport Removable Pressure Sensor.csproj.CopyComplete
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\obj\Release\Pressure Calibration Software.exe
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\obj\Release\Pressure Calibration Software.pdb
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\obj\Release\Valeport Removable Pressure Sensor.csprojAssemblyReference.cache
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\MySql.Data.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.Compression.Base.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.ExcelChartToImageConverter.Wpf.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.ExcelToPdfConverter.Base.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.Licensing.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.Pdf.Base.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.SfChart.WPF.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.XlsIO.Base.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Google.Protobuf.dll
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\MySql.Data.xml
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.Compression.Base.xml
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.ExcelChartToImageConverter.Wpf.xml
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.ExcelToPdfConverter.Base.xml
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.Pdf.Base.xml
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.SfChart.WPF.xml
+C:\valeport_csharp\projects\Valeport Removable Pressure Sensor\Valeport Removable Pressure Sensor\bin\Release\Syncfusion.XlsIO.Base.xml
