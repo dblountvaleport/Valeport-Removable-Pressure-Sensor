@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2020-10-19" view-index="0" gantt-divider-location="402" resource-divider-location="300" version="2.8.11" locale="en_GB">
+    <description/>
+    <view zooming-state="default:7" id="gantt-chart">
+        <field id="tpd3" name="Name" width="235" order="0"/>
+        <field id="tpd4" name="Begin date" width="76" order="1"/>
+        <field id="tpd5" name="End date" width="87" order="2"/>
+        <option id="color.recent"><![CDATA[#009999 #f4f4f4 #ffccff #6633ff #00ffcc #ffff00]]></option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="210" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" name="Project Initiation Meeting" color="#8cb6ce" meeting="false" start="2020-10-21" duration="1" complete="0" thirdDate="2021-05-18" thirdDate-constraint="0" expand="true">
+            <depend id="3" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="3" name="Create Application Wireframes" color="#8cb6ce" meeting="false" start="2020-10-22" duration="2" complete="0" thirdDate="2021-05-18" thirdDate-constraint="0" expand="true">
+            <depend id="5" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="5" name="Create Application Flow Diagram" color="#8cb6ce" meeting="false" start="2020-10-26" duration="2" complete="0" thirdDate="2020-09-29" thirdDate-constraint="0" expand="true">
+            <depend id="6" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="6" name="Create Enitity Relationship Diagram" color="#8cb6ce" meeting="false" start="2020-10-28" duration="2" complete="0" thirdDate="2020-09-29" thirdDate-constraint="0" expand="true">
+            <depend id="9" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="9" name="Create Database Design" color="#8cb6ce" meeting="false" start="2020-10-30" duration="2" complete="0" thirdDate="2020-09-29" thirdDate-constraint="0" expand="true">
+            <depend id="10" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="10" name="Project Meeting" meeting="false" start="2020-11-03" duration="1" complete="0" expand="true">
+            <depend id="11" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="11" name="Valeport Standardisation Meeting 1" color="#ffff00" meeting="false" start="2020-11-04" duration="1" complete="0" thirdDate="2020-09-29" thirdDate-constraint="0" expand="true">
+            <depend id="42" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="42" name="Create Database" color="#00ffcc" meeting="false" start="2020-11-05" duration="4" complete="0" thirdDate="2020-11-05" thirdDate-constraint="0" expand="true">
+            <depend id="16" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="16" name="Valeport Standardisation Meeting 2" color="#ffff00" meeting="false" start="2020-11-11" duration="1" complete="0" thirdDate="2020-09-29" thirdDate-constraint="0" expand="true">
+            <depend id="48" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="48" name="Create Initial Application Template" color="#009999" meeting="false" start="2020-11-12" duration="4" complete="0" thirdDate="2020-11-12" thirdDate-constraint="0" expand="true">
+            <depend id="20" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="20" name="Valeport Standardisation Meeting 3" color="#ffff00" meeting="false" start="2020-11-18" duration="1" complete="0" thirdDate="2020-09-29" thirdDate-constraint="0" expand="true">
+            <depend id="54" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="54" name="Design &amp; Create Application Icons" color="#009999" meeting="false" start="2020-11-19" duration="4" complete="0" thirdDate="2020-11-19" thirdDate-constraint="0" expand="true">
+            <depend id="25" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="25" name="Valeport Standardisation Meeting 4" color="#ffff00" meeting="false" start="2020-11-25" duration="1" complete="0" thirdDate="2020-09-29" thirdDate-constraint="0" expand="true">
+            <depend id="58" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="58" name="Create Application Form" color="#009999" meeting="false" start="2020-11-26" duration="4" complete="0" thirdDate="2020-11-26" thirdDate-constraint="0" expand="true">
+            <depend id="29" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="29" name="Valeport Standardisation Meeting 5" color="#ffff00" meeting="false" start="2020-12-02" duration="1" complete="0" thirdDate="2020-09-29" thirdDate-constraint="0" expand="true">
+            <depend id="61" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="61" name="Create PHP Page for Updates" color="#009999" meeting="false" start="2020-12-03" duration="4" complete="0" thirdDate="2020-12-03" thirdDate-constraint="0" expand="true">
+            <depend id="32" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="32" name="Valeport Standardisation Meeting 6" color="#ffff00" meeting="false" start="2020-12-09" duration="1" complete="0" thirdDate="2020-09-29" thirdDate-constraint="0" expand="true">
+            <depend id="64" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="64" name="Create Auto Update Code" color="#009999" meeting="false" start="2020-12-10" duration="4" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+            <depend id="35" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="35" name="Valeport Standardisation Meeting 7" color="#ffff00" meeting="false" start="2020-12-16" duration="1" complete="0" thirdDate="2020-09-29" thirdDate-constraint="0" expand="true">
+            <depend id="70" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="70" name="Test Application (auto update)" color="#009999" meeting="false" start="2020-12-17" duration="4" complete="0" thirdDate="2020-12-17" thirdDate-constraint="0" expand="true">
+            <depend id="38" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="38" name="Valeport Standardisation Meeting 8" color="#ffff00" meeting="false" start="2020-12-23" duration="1" complete="0" thirdDate="2020-09-29" thirdDate-constraint="0" expand="true">
+            <depend id="67" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="67" name="Christmas Holidays" color="#ffccff" meeting="false" start="2020-12-24" duration="9" complete="0" thirdDate="2020-12-24" thirdDate-constraint="0" expand="true">
+            <depend id="40" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="40" name="Sign-off Valeport Standards" color="#ffff00" meeting="false" start="2021-01-06" duration="1" complete="0" thirdDate="2020-11-02" thirdDate-constraint="0" expand="true">
+            <depend id="104" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="104" name="Develop Modbus Code" color="#009999" meeting="false" start="2021-01-07" duration="12" complete="0" thirdDate="2021-01-07" thirdDate-constraint="0" expand="true">
+            <depend id="124" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="124" name="Test Modbus Code" color="#6633ff" meeting="false" start="2021-01-25" duration="3" complete="0" thirdDate="2021-02-17" thirdDate-constraint="0" expand="true">
+            <depend id="107" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="107" name="Develop Checksum Code" color="#009999" meeting="false" start="2021-01-28" duration="7" complete="0" thirdDate="2021-01-19" thirdDate-constraint="0" expand="true">
+            <depend id="153" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="153" name="Test Checksum Code" color="#6633ff" meeting="false" start="2021-02-08" duration="3" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true">
+            <depend id="110" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="110" name="Develop IEEE-754 Code" color="#009999" meeting="false" start="2021-02-11" duration="7" complete="0" thirdDate="2021-01-26" thirdDate-constraint="0" expand="true">
+            <depend id="154" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="154" name="Test IEEE-754 Code" color="#6633ff" meeting="false" start="2021-02-22" duration="2" complete="0" thirdDate="2021-02-19" thirdDate-constraint="0" expand="true">
+            <depend id="116" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="116" name="Create Line Graph &amp; Code" color="#009999" meeting="false" start="2021-02-24" duration="3" complete="0" thirdDate="2021-02-02" thirdDate-constraint="0" expand="true">
+            <depend id="184" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="184" name="Finalise Code" color="#009999" meeting="false" start="2021-03-01" duration="15" complete="0" thirdDate="2021-03-01" thirdDate-constraint="0" expand="true">
+            <depend id="74" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="74" name="Final Application Testing" color="#6633ff" meeting="false" start="2021-03-22" duration="6" complete="0" thirdDate="2020-10-12" thirdDate-constraint="0" expand="true">
+            <depend id="76" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="76" name="Release Application Internally" color="#009999" meeting="false" start="2021-03-30" duration="2" complete="0" thirdDate="2020-10-12" thirdDate-constraint="0" expand="true">
+            <depend id="78" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="78" name="User Feedback &amp; Bug Fixing" color="#ffccff" meeting="false" start="2021-04-01" duration="14" complete="0" thirdDate="2020-10-12" thirdDate-constraint="0" expand="true">
+            <depend id="80" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="80" name="Address Feedback" color="#009999" meeting="false" start="2021-04-21" duration="4" complete="0" thirdDate="2020-10-12" thirdDate-constraint="0" expand="true">
+            <depend id="84" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="84" name="Final Application Release" color="#009999" meeting="false" start="2021-04-27" duration="2" complete="0" thirdDate="2020-11-17" thirdDate-constraint="0" expand="true">
+            <depend id="169" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="169" name="Contingency" color="#ffccff" meeting="false" start="2021-04-29" duration="14" complete="0" thirdDate="2021-05-20" thirdDate-constraint="0" expand="true"/>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+    <roles roleset-name="SoftwareDevelopment"/>
+</project>
